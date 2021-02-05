@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning from [Ineuron](https://ineuron.ai/) and [Youtube](https://www.youtube.com/)
 - 💻 I'm looking for internships/jobs in Machine Learning Domain.
 - 📫 How to reach me: **mohit.sahni136@gmail.com**
-- ⚡ Fun fact: **I don't know!
+- ⚡ Fun fact: I don't know!
