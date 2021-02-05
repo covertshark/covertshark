@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mohit Sahni 😀</h1>
 <h3 align="center">Aspiring ML Engineer🖋</h3>
 
-<p align="center">My name is Mohit Sahni. 🎓 I'm a graduate in Electrical Engineering from KIIT University Bhubaneswar. I am very passionate about Mavhhine Learning. </p>
+<p align="center">My name is Mohit Sahni. 🎓 I'm a graduate in Electrical Engineering from KIIT University Bhubaneswar. I am very passionate about Machine Learning. </p>
 
 <br>
 
